@@ -1,0 +1,6 @@
+maxpol_rust/target
+maxpol_rust/Cargo.lock
+maxpol_calc/
+maxpol_calc_exact/
+maxpol_calc_cutoff/
+
